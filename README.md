@@ -11,34 +11,34 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Degree Symbols
-#### ° Degree Sign
-#### ℃ Degree Celsius
-#### ℉ Degree Fahrenheit
-#### ϟ Greek Small Letter Koppa
-#### ☀ Black Sun with Rays
-#### ☁ Cloud
-#### ☂ Umbrella
-#### ☃ Snowman
-#### ☉ Sun
-#### ☼ White Sun with Rays
-#### ☽ First Quarter Moon
-#### ☾ Last Quarter Moon
-#### ♁ Earth
-#### ♨ Hot Springs
-#### ❄ Snowflake
-#### ❅ Tight Trifoliate Snowflake
-#### ❆ Heavy Chevron Snowflake
-#### ☇ Lightning
-#### ☈ Thunderstorm
-#### ☄ Comet
-#### ㎎ Square Mg
-#### ㎏ Square Kg
-#### ㎜ Square Mm
-#### ㎝ Square Cm
-#### ㎞ Square Km
-#### ㎡ Square M Squared
-#### ㏄ Square Cc
-#### ㏎ Square Km Capital
-#### ㏑ Square Ln
-#### ㏒ Square Log
-#### ㏕ Square Mil
+- ° Degree Sign
+- ℃ Degree Celsius
+- ℉ Degree Fahrenheit
+- ϟ Greek Small Letter Koppa
+- ☀ Black Sun with Rays
+- ☁ Cloud
+- ☂ Umbrella
+- ☃ Snowman
+- ☉ Sun
+- ☼ White Sun with Rays
+- ☽ First Quarter Moon
+- ☾ Last Quarter Moon
+- ♁ Earth
+- ♨ Hot Springs
+- ❄ Snowflake
+- ❅ Tight Trifoliate Snowflake
+- ❆ Heavy Chevron Snowflake
+- ☇ Lightning
+- ☈ Thunderstorm
+- ☄ Comet
+- ㎎ Square Mg
+- ㎏ Square Kg
+- ㎜ Square Mm
+- ㎝ Square Cm
+- ㎞ Square Km
+- ㎡ Square M Squared
+- ㏄ Square Cc
+- ㏎ Square Km Capital
+- ㏑ Square Ln
+- ㏒ Square Log
+- ㏕ Square Mil
